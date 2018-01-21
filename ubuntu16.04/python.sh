@@ -1,0 +1,5 @@
+ssh k8s-1 "apt-get update && apt-get install python -y"
+ssh k8s-2 "apt-get update && apt-get install python -y"
+ssh k8s-3 "apt-get update && apt-get install python -y"
+ssh k8s-4 "apt-get update && apt-get install python -y"
+ssh k8s-5 "apt-get update && apt-get install python -y"
