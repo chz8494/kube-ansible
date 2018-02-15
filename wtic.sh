@@ -1,3 +1,5 @@
+export OS_TENANT_ID="d4f4190305a14179855e454330edafdc"
+export OS_REGION_NAME="RegionOne"
 export OS_PROJECT_DOMAIN_NAME=default 
 export OS_USER_DOMAIN_NAME=default 
 export OS_PROJECT_NAME=WTIC 
